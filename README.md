@@ -15,24 +15,27 @@ Certainly! Here's a refined version with even more emphasis on ATS optimization:
 
 ---
 
+Certainly! Here's a condensed version to fit on one page in Microsoft Word:
+
+---
+
 # Shakil Anower
 ## Software Developer | Innovative Problem Solver
 
 ### **Professional Summary**
-Versatile Software Developer with expertise in crafting cutting-edge applications. Proficient in Python, JavaScript, and a variety of frameworks. Proven track record of translating business requirements into impactful technical solutions. Seeking a dynamic role to leverage innovation and advanced problem-solving skills.
+Versatile Software Developer with expertise in crafting cutting-edge applications. Proficient in Python, JavaScript, and various frameworks. Proven track record of translating business requirements into impactful technical solutions. Seeking a dynamic role to leverage innovation and advanced problem-solving skills.
 
 ### **Skills**
-- **Languages:** Python (Advanced), JavaScript (Advanced), Java (Intermediate), C++ (Intermediate), Dart (Intermediate)
-- **Libraries and Frameworks:** React, Matplotlib, Flask, Django, Panda, NumPy, Power BI, TensorFlow, OpenCV
-- **Technologies:** HTML and CSS, Firebase, MySQL, Data Structure, Algorithm, MongoDB, AI and ML, Data Science
+- **Languages:** Python (Adv), JavaScript (Adv), Java (Int), C++ (Int), Dart (Int)
+- **Libraries & Frameworks:** React, Matplotlib, Flask, Django, Panda, NumPy, Power BI, TensorFlow, OpenCV
+- **Technologies:** HTML/CSS, Firebase, MySQL, Data Structures, Algorithm, MongoDB, AI/ML, Data Science
 - **Tools:** Git, Linux, Windows
-- **Certificates:** Microsoft Azure Fundamentals, Analyzing Data with Power BI
+- **Certificates:** Microsoft Azure Fundamentals, Power BI
 
 ### **Professional Experience**
 **Software Developer | [Company Name]**
-- Led design and implementation of application systems, deploying transformative software upgrades for clients.
-- Developed websites using code and maintained a compelling personal portfolio.
-- Conducted workshops, programming contests, and programming classes to boost engagement.
+- Led design and implementation of application systems, deploying transformative software upgrades.
+- Developed websites using code, maintained a compelling portfolio, and conducted engaging workshops.
 
 **Freelance | Data Science Club (TA) | Data Science Lab (TA)**
 - Provided TA support for Data Science Club and Lab initiatives.
@@ -44,32 +47,23 @@ Versatile Software Developer with expertise in crafting cutting-edge application
 **Data Analysis**
 - Conducted data analysis using Power BI, delivering actionable insights on product loss benefit.
 
-**YouTube Clone**
-- Architected and implemented YouTube data API for an enhanced user experience.
-
-**Sudoku Solver**
-- Engineered visually appealing Backtracking Algorithm with Pygame for an intuitive GUI.
+**YouTube Clone | Sudoku Solver**
+- Architected YouTube data API, engineered visually appealing Backtracking Algorithm with Pygame.
 
 **Cervical Cancer Prediction**
 - Developed an advanced algorithm for predicting Cervical Cancer.
 
-**Real-Time Chat Messenger**
-- Orchestrated a scalable API and implemented a chat system using Chat Engine, deployed with precision on Netlify.
-
-**WhatsApp UI**
-- Designed a captivating demo UI with Flutter.
-
-**Woselo**
-- Conceptualized and developed a Flutter mobile application for a job board, integrating Firebase for seamless functionality.
+**Chat Messenger | WhatsApp UI | Woselo**
+- Orchestrated scalable APIs, implemented chat systems, designed captivating UIs.
 
 ### **Education**
 **BSc in Software Engineering | Daffodil International University (2019-2022)**
 - Led programming contests and provided mentorship as part of the Software Engineering Club (TA).
 
-### **Co-curricular Activities**
-- Leetcode: [Leetcode Profile](https://leetcode.com/Shakil_Anower/)
-- GitHub: [GitHub Profile](https://github.com/Shakil7869)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shakil-anower-77138917b/)
+### **Co-curricular**
+- Leetcode: [Profile](https://leetcode.com/Shakil_Anower/)
+- GitHub: [Profile](https://github.com/Shakil7869)
+- LinkedIn: [Profile](https://www.linkedin.com/in/shakil-anower-77138917b/)
 
 ### **Contact**
 - Phone: +8801537439055
@@ -78,4 +72,4 @@ Versatile Software Developer with expertise in crafting cutting-edge application
 
 ---
 
-In this version, I've maintained a clean and organized format, used bullet points for easy scanning, and included clear headers. The resume is optimized for ATS systems to recognize key skills and experiences. Ensure to replace "your-personal-website-link" with your actual personal website link.
+Copy and paste this into a Microsoft Word document and adjust formatting as needed. Replace "your-personal-website-link" with your actual personal website link. Ensure that you adjust the font size and margins if necessary to fit within one page.
